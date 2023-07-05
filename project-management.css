@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to right, rgb(79, 79, 240) ,rgb(241, 131, 131) ,rgb(138, 243, 138) ,rgb(236, 236, 91) );
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 5px;
+    border: double;
+    border-width: 10px;
+    position: center;
+    background-color: black;
+    font-family: cursive;
+    color: aliceblue;
+    border-radius: 20px;
+    border-color: aqua;
+    
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  input {
+    border: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    position: center;
+    margin-left: 150px;
+    margin-top: 5px;
+    border-color:crimson;
+    font-family: cursive;
+    text-align: center;
+    font-size: large;
+  }
+  
+  #taskForm {
+    margin-bottom: 10px;
+  }
+  
+  #taskList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    margin-bottom: 5px;
+  }
+  
+  .task-item span {
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: black;
+    border: solid;
+    border-radius: 10px;
+    border-color:darkturquoise;
+    border-width: 5px;
+    color: blanchedalmond;
+    margin-right: 5px;
+    font-size: large;
+    font-family: cursive;
+    background-color:dodgerblue;
+  }
+  
